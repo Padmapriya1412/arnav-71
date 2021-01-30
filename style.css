@@ -1,0 +1,64 @@
+.Campus_life_maindiv {
+    text-align: left;
+    background-color: aqua;
+    border: 10px solid;
+    border-color: #052F5F;
+}
+
+.Campus_life_maindiv h4 {
+    font-size: 20px;
+}
+
+.Achievements_maindiv {
+    background-color: #FFE45E;
+    border: 10px solid;
+    border-color: #052F5F;
+}
+
+.contactus_maindiv {
+    background-color: aqua;
+    border: 10px solid;
+    border-color: #052F5F;
+}
+
+.contactus_maindiv p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 20px;
+}
+
+
+#details {
+    display: inline-block;
+    text-align: left
+}
+
+iframe {
+    width: 100%;
+}
+
+.movie-head {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+}
+
+.movie-head span {
+    float: right;
+}
+.school_li img{
+width: 100px;
+    height: 100px;
+}
+.book{
+cursor: pointer;
+}
+.book p{
+    margin-bottom: 10px;
+}
+
